@@ -1,4 +1,4 @@
-# geacon_plus
+# greaco_plu
 The CobaltStrike stageless http(s) beacon implemented by golang has more extensions based on the geacon project
 
 Thanks to the good brother @H4de5 for the windows part of the code support
@@ -54,6 +54,10 @@ Go to issue
 
 reference
 During the development of this project, the following excellent projects were referred to
+
+https://github.com/mai1zhi2/SharpBeacon
+https://github.com/darkr4y/geacon
+https://github.com/WBGlIl/ReBeacon_Src
 
 
 golang实现的CobaltStrike stageless http(s) beacon,在geacon项目基础上进行了较多扩展
